@@ -1,0 +1,111 @@
+moonton.com
+en.moonton.com
+register.moonton.com
+passport.moonton.com
+mobilelegends.com
+www.mobilelegends.com
+mlbb.moonton.com
+activity.mobilelegends.com
+pay.mobilelegends.com
+api.mobilelegends.com
+api.moonton.com
+sg-api.mobilelegends.com
+id-api.mobilelegends.com
+ph-api.mobilelegends.com
+match.mobilelegends.com
+chat.mobilelegends.com
+cdn.mobilelegends.com
+res.mobilelegends.com
+dl.mobilelegends.com
+patch.mobilelegends.com
+img.mobilelegends.com
+register-sc.moonton.com
+security.moonton.com
+mail.moonton.com
+*.cloudfront.net
+*.amazonaws.com
+*.akamai.net
+*.akamaized.net
+*.googleapis.com
+127.0.0.1       localhost
+::1             ip6-localhost
+127.0.0.1 ota.googlezip.net
+127.0.0.1 ota-cache1.googlezip.net
+127.0.0.1 ota-cache2.googlezip.net
+127.0.0.1 firebaseinstallations.googleapis.com
+127.0.0.1 skystone.games
+127.0.0.1 tnc16-alisg.isnssdk.com
+127.0.0.1 appsflyersdk.com
+127.0.0.1 bytegsdk.com
+127.0.0.1 rtcplus.com
+127.0.0.1 moontonsafe.com
+127.0.0.1 ml.aihelp.net.in
+127.0.0.1 security.dksecsg.com
+127.0.0.1 firebaseremoteconfig.googleapis.com
+127.0.0.1 byteoversea.com
+127.0.0.1 adjust.ml.youngjoygame.com
+127.0.0.1 app.adjust.com
+127.0.0.1 app.adjust.world
+127.0.0.1 app.adjust.net.in
+127.0.0.1 gsdk19-va.bytegsdk.com
+127.0.0.1 gsdk-quic-gcp-va.bytegsdk.com
+127.0.0.1 log-nontt.bytegsdk.com
+127.0.0.1 gplog-sg.byteoversea.com
+127.0.0.1 gpm-mon-va.bytegsdk.com
+127.0.0.1 va-effect.byteoversea.com
+127.0.0.1 akmstatic.ml.mproject.skystone.games
+127.0.0.1 ml.aihelp.net
+127.0.0.1 firebase-settings.crashlytics.com
+127.0.0.1 firebaselogging.googleapis.com
+127.0.0.1 activity.mobilelegends.com
+127.0.0.1 static.mobilelegends.com
+127.0.0.1 patch.mobilelegends.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 graph.facebook.com
+127.0.0.1 mon-va.tiktokv.com
+127.0.0.1
+0.0.0.0 test.ml-battle.youngjoygame.com.a2.initah.com
+0.0.0.0 akmpicture.youngjoygame.com
+0.0.0.0 yuanzhanapp.com
+0.0.0.0 dksecsg.com
+0.0.0.0 wscdn.ml.youngjoygame.com
+0.0.0.0 pldtcdn.ml.youngjoygame.com
+0.0.0.0 newlogin.ml.youngjoygame.com
+0.0.0.0 in-addr.arpa
+0.0.0.0 content.garena.com
+0.0.0.0 123pan.cn
+0.0.0.0 saasexch.info
+0.0.0.0 report.ml.youngjoygame.com
+0.0.0.0 youngjoygame.com
+0.0.0.0 bytesgdk.com
+0.0.0.0 mlbangbang.com
+0.0.0.0 byteoversea.com
+0.0.0.0 aihelp.net
+0.0.0.0 deliveryhero.net
+0.0.0.0 api.mobilelegends.com
+0.0.0.0 www.taobao.com
+0.0.0.0 moonton.org
+0.0.0.0 ibyteimg.com
+0.0.0.0 appsflyersdk.com
+0.0.0.0 moontonsafe.com
+0.0.0.0 proxytest89.moonton.org
+0.0.0.0 moontontech.com
+0.0.0.0 www.moontontech.com
+0.0.0.0 youngjoygame.com
+0.0.0.0 www.youngjoygame.com
+0.0.0.0 mlbbmobile.com
+0.0.0.0 www.mlbbmobile.com
+0.0.0.0 mobilelegends.com
+0.0.0.0 www.mobilelegends.com
+0.0.0.0 m.mobilelegends.com
+0.0.0.0 www.m.mobilelegends.com
+0.0.0.0 mlbb.moonton.com
+0.0.0.0 www.mlbb.moonton.com
+0.0.0.0 pay.moonton.com
+0.0.0.0 www.pay.moonton.com
+0.0.0.0 account.moonton.com
+0.0.0.0 www.account.moonton.com
+0.0.0.0 en.moonton.com
+0.0.0.0 www.en.moonton.com
+0.0.0.0 moonton.com
+0.0.0.0 www.moonton.com
